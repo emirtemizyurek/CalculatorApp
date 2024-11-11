@@ -28,4 +28,4 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/iOS-Style-Calculator.git
+   git clone https://github.com/emirtemizyurek/CalculatorApp
